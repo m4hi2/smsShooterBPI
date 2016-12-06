@@ -15,6 +15,7 @@ password = ''
 xl_filename = ''
 # sheet_name = ''
 
+# Column number of the column with the phone numbers in a 'Zero Based Index'
 column = 3
 
 # infobip configuration
